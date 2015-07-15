@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Pluto has some cool looking terrain http://xkcd.com/1551/
-=======
 This was a planet till recently.
-
->>>>>>> a664c62ff11e1966a49cba07726f2f1564d50364
