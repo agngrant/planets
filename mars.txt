@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 mars is a planet, pluto isn't
 Mars was named after the roman god of war
+=======
+Mars is the fourth planet from the star - preceded by Earth.
+Mars is named after a Roman god.
+A probe managed to crash into it due to a stupid error.
+>>>>>>> a664c62ff11e1966a49cba07726f2f1564d50364

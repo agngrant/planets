@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 a.dat
 b.dat
 c.dat
+=======
+*.dat
+results/
+>>>>>>> a664c62ff11e1966a49cba07726f2f1564d50364
