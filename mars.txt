@@ -1,2 +1,3 @@
 Mars is the fourth planet from the star - preceded by Earth.
 Mars is named after a Roman god.
+A probe managed to crash into it due to a stupid error.
